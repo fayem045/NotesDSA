@@ -2,12 +2,12 @@
 
 ## Repository for My DSA Notes
 
-## ✅ Updates
+##  Updates
 
-- [x] Initial commit  
-- [x] Added README.md
+### - [x] Initial commit  
+### - [x] Added README.md
 
-## 🚀 Features
+##  Features
 
-- Notes and practice exercises in DSA using **Java**
-- Notes and practice exercises in DSA using **Python**
+*** - Notes and practice exercises in DSA using **Java**
+*** -  Notes and practice exercises in DSA using **Python**
