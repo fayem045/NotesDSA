@@ -9,5 +9,5 @@
 
 ##  Features
 
-*** - Notes and practice exercises in DSA using **Java**
-*** -  Notes and practice exercises in DSA using **Python**
+### - Notes and practice exercises in DSA using **Java**
+### -  Notes and practice exercises in DSA using **Python**
